@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluehomosapien&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluehomosapien&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thebluehomosapien?theme=chartreuse&font=Lato)
