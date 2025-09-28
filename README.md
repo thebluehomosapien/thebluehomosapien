@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluehomosapien&layout=compact)
+[![Leetcode Stats](https://leetcard.thebluehomosapien.cool/thebluehomosapien)](https://leetcode.com/thebluehomosapien)
