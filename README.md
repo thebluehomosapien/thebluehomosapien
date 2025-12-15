@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [(https://github.com/anuraghazra/github-readme-stats)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluehomosapien&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluehomosapien&layout=donut)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thebluehomosapien?theme=default&font=Lato)
+-->
+
 
 
